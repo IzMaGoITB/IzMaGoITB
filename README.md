@@ -1,7 +1,15 @@
+<div align="center">
+
 ## Hi my name is Izan
+
 ### Welcome to my GitHub
+
 ### Eager to learn code
+
 #### Hopefully a Computer Science student in the future
+
+</div>
+
 
 
 <p align="center">
