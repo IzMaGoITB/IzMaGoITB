@@ -3,9 +3,4 @@
 ### Eager to learn code
 #### Hopefully a Computer Science student in the future
 
-<img width="792" height="624" alt="github_pixel_art" src="https://github.com/user-attachments/assets/2549e1aa-a9c5-4e0d-82a3-9116fd840072" />
-
-
-<p align="center">
-  <img src="./github_pixel_art.png" alt="Pixel art">
-</p>
+<div class="tenor-gif-embed" data-postid="10446143292136535248" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/zelda-link-nod-nodding-yeah-gif-10446143292136535248">Zelda Link Sticker</a>from <a href="https://tenor.com/search/zelda-stickers">Zelda Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
