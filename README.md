@@ -7,6 +7,7 @@
 ### Eager to learn code
 
 #### Hopefully a Computer Science student in the future
+#### Currently studying in ITB
 
 </div>
 
